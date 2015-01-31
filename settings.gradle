@@ -4,10 +4,10 @@ rootProject.name = 'ParseAndroidUI'
 include ':ParseLoginUI'
 
 // Facebook SDK
-include 'facebook-sdk:facebook'
+include 'facebook-android-sdk:facebook'
 
 // Sample Projects
-include ':ParseLoginSampleBasic'
-include ':ParseLoginSampleWithDispatchActivity'
-include ':ParseLoginSampleCodeCustomization'
-include ':ParseLoginSampleLayoutOverride'
+//include ':ParseLoginSampleBasic'
+//include ':ParseLoginSampleWithDispatchActivity'
+//include ':ParseLoginSampleCodeCustomization'
+//include ':ParseLoginSampleLayoutOverride'
